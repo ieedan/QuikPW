@@ -3,7 +3,7 @@
     /// <summary>
     /// Generates random passwords 'quikly'
     /// </summary>
-    public class QuikPW
+    public class PasswordGenerator
     {
         private readonly Random _random;
         private readonly List<char> chars;
@@ -11,7 +11,7 @@
         /// <summary>
         /// Generates random passwords 'quikly' uses preset list of characters
         /// </summary>
-        public QuikPW()
+        public PasswordGenerator()
         {
             _random = new Random();
             chars = new List<char>()
@@ -71,7 +71,7 @@
         /// Generates random passwords 'quikly' using the provided list of characters
         /// </summary>
         /// <param name="characterList"></param>
-        public QuikPW(List<char> characterList)
+        public PasswordGenerator(List<char> characterList)
         {
             _random = new Random();
             chars = characterList;

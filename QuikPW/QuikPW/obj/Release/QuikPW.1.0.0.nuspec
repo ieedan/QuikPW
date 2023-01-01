@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>QuikPW</id>
+    <version>1.0.0</version>
+    <title>QuikPW</title>
+    <authors>QuikPW</authors>
+    <readme>README.md</readme>
+    <description>Light-weight package designed to quickly and easily generate passwords for you</description>
+    <tags>C#, password, random, generation</tags>
+    <repository url="https://github.com/ieedan/QuikPW" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Aidan Bleser\source\repos\QuikPW\QuikPW\bin\Release\net6.0\QuikPW.dll" target="lib\net6.0\QuikPW.dll" />
+    <file src="C:\Users\Aidan Bleser\OneDrive\Documents\GitHub\QuikPW\README.md" target="\README.md" />
+  </files>
+</package>

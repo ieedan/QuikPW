@@ -6,6 +6,21 @@
     <Nullable>enable</Nullable>
     <Title>QuikPW</Title>
     <Description>Light-weight package designed to quickly and easily generate passwords for you</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/ieedan/QuikPW</RepositoryUrl>
+    <PackageTags>C#, password, random, generation</PackageTags>
+    <AssemblyVersion>1.0.1</AssemblyVersion>
+    <FileVersion>1.0.1</FileVersion>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\OneDrive\Documents\GitHub\QuikPW\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
