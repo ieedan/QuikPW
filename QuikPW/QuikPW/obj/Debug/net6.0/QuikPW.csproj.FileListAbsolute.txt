@@ -1,0 +1,12 @@
+C:\Users\Aidan Bleser\source\repos\QuikPW\QuikPW\bin\Debug\net6.0\QuikPW.deps.json
+C:\Users\Aidan Bleser\source\repos\QuikPW\QuikPW\bin\Debug\net6.0\QuikPW.dll
+C:\Users\Aidan Bleser\source\repos\QuikPW\QuikPW\bin\Debug\net6.0\QuikPW.pdb
+C:\Users\Aidan Bleser\source\repos\QuikPW\QuikPW\obj\Debug\net6.0\QuikPW.csproj.AssemblyReference.cache
+C:\Users\Aidan Bleser\source\repos\QuikPW\QuikPW\obj\Debug\net6.0\QuikPW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aidan Bleser\source\repos\QuikPW\QuikPW\obj\Debug\net6.0\QuikPW.AssemblyInfoInputs.cache
+C:\Users\Aidan Bleser\source\repos\QuikPW\QuikPW\obj\Debug\net6.0\QuikPW.AssemblyInfo.cs
+C:\Users\Aidan Bleser\source\repos\QuikPW\QuikPW\obj\Debug\net6.0\QuikPW.csproj.CoreCompileInputs.cache
+C:\Users\Aidan Bleser\source\repos\QuikPW\QuikPW\obj\Debug\net6.0\QuikPW.dll
+C:\Users\Aidan Bleser\source\repos\QuikPW\QuikPW\obj\Debug\net6.0\refint\QuikPW.dll
+C:\Users\Aidan Bleser\source\repos\QuikPW\QuikPW\obj\Debug\net6.0\QuikPW.pdb
+C:\Users\Aidan Bleser\source\repos\QuikPW\QuikPW\obj\Debug\net6.0\ref\QuikPW.dll
